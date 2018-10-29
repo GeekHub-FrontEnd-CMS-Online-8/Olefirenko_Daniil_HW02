@@ -1,0 +1,55 @@
+p,
+ul,
+ol {
+	font-size: 20px;
+}
+
+.container .header,
+.container .header_2 {
+	text-align: center;
+}
+
+.container {
+	width:870px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+p.header {
+	font-style: italic;
+	font-size: 1.4em;
+}
+
+.header_2,
+.text_bold {
+	font-weight: bold;
+}
+
+.text_italic {
+	font-style: italic;
+	text-align: center;
+}
+
+.text_ul {
+	text-decoration: underline;
+}
+
+.leftimg {
+	float:left;
+	margin: 7px 7px 0 0;
+}
+
+.container .text_bitalic {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20px;
+}
+
+.right_text {
+	font-style: italic;
+	text-align: right;
+}
+
+.pic {
+	text-align:center;
+}
